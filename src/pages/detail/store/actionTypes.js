@@ -1,0 +1,1 @@
+export const ADD_DETAIL_LIST = 'detail_ADD_DETAIL_LIST';
